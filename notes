@@ -43,4 +43,16 @@ leader dd för delete current item
 
 leader R för replace alla
 
+leader gg för lazygit
+
+c för commit
+
+p för pull
+
+shift P för push
+
+leader ft för temp terminal
+
+ctrl 7 för  att visa terminal som köra i bakgrunden
+
 
