@@ -1,0 +1,46 @@
+hoppa med s för find,
+
+S för någon mark
+
+leader ss för search,
+
+leader , för buffer
+
+K för visa docs
+
+leader sg för search grep
+
+leader xx för att visa trouble list
+
+leader uC för att ändra color theme
+
+ctrl h och ctrl l för buffer switch
+
+leader | för vertical split och leader - för horizontal split
+
+ctrl pilar för storlek på pslit
+
+leader sh för search help
+
+leader st för serach för todo:s
+
+
+för SNIPPETS:
+
+ctrl n för att bläddra 
+
+tab för att hoppa i SNIPPETS
+
+leader sk för att söka keymaps
+
+search and replace
+
+leader sr för search and replace
+
+leader rc för replace current item
+
+leader dd för delete current item
+
+leader R för replace alla
+
+
