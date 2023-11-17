@@ -66,3 +66,4 @@ leader s " för att kolla i registers
 register, " för att accessa register, sen nummer 0 är std yank register, "0p är yank register
 
 
+
