@@ -57,4 +57,12 @@ ctrl 7 för  att visa terminal som köra i bakgrunden
 
 ctrl f och b är scroll forward and backwards.
 
+leader sb för search in buffer
+
+leader sb för search in buffer
+
+leader s " för att kolla i registers
+
+register, " för att accessa register, sen nummer 0 är std yank register, "0p är yank register
+
 
